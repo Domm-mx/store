@@ -1,0 +1,36 @@
+#project 2
+App Name
+Stock barang >> laravel
+Kebutuhan aplikasi [online shop] 
+Backoffice
+1. Management user (Ariando)
+2. Management barang (Exone)
+3. Management Produsen (Hendrik)
+
+Member site
+1. List barang
+2. List category
+
+
+————————————
+Structure database DB_Name Store 
+1. Table user
+- ID username
+- Username
+- Password
+- Email
+- Role
+
+1. Table barang
+- ID barring
+- Barang
+- Jumlah
+- Hard
+- Category barang
+- Nama peoduk (Relasi ke table Produsen)
+
+1. Tabel Producen - ID Producen  - Nama Produsen
+
+—————————————
+
+1. Kebutuhan Server   - Store.techtrooper.myid
